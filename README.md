@@ -1,0 +1,1 @@
+Cool pirate themed top-down dungeon game. All the sprites besides the background was made by hand (as far as I remember). You will need SDL (Simple DirectMedia Layer) to make this all run, but you can find it online. It was pretty bulky so I didn't upload it to this repo. Check walkthru file for help beating the game ;-)
