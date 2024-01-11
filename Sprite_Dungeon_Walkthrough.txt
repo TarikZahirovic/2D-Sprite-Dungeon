@@ -1,0 +1,25 @@
+Reach Goals:
+- Timed Power-Up (invincibility runs out after 30 seconds)
+
+How to WIN:
+
+> Goal is to get all 5 coins (this gives invincibility) and get to the treasure
+	without bumping into more than 2 pirates
+
+> Go south from the starting room for the first coin
+
+> Go back up, then east for the second coin
+
+> Go south from there, and go to the east end of the room for the third coin
+
+> Go back to the crossroads room (where the second coin was) and go north, entering the maze
+
+> It is a bit tricky to explain the maze layout but, go straight north until you hit a wall, 
+	then go east, fourth coin is in the second to last hall/turn (can be seen on map file that was provided)
+	
+> Go back the way you came, then just as you enter the maze, turn east and just keep going
+	then turn north at the end, then east again at the turn. Final coin is in that room.
+	
+> Hurry back to the crossroads room and keep going east from there. You are supposed to use
+	your invincibility to break thru the lines of pirates and get to the treasure on the other side,
+	but be quick, invincibility only lasts 30 seconds, and when it runs out there's no other way to get it!
